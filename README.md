@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-HuggingFace <a href="https://huggingface.co/datasets/VocalNet/VocalBench-zh">🤗</a> | Paper <a href="https://arxiv.org/abs/2511.08230">📖</a> 
+HuggingFace <a href="https://huggingface.co/datasets/VocalNet/VocalBench-zh">🤗</a> | Paper will Comming Soon 📖</a> 
 </p>
 <p align="center">
 Shanghai Jiao Tong University</a>  |  Ant Group</a> 
@@ -405,10 +405,10 @@ This repository is released under the Apache-2.0 license as found in the [LICENS
 If you find our benchmark helpful, please consider citing our papers 📝 and staring us ⭐️！
 
 ```bib
-@article{liu2025vocalbench-zh,
-  title={VocalBench-zh: Decomposing and Benchmarking the Speech Conversational Abilities in Mandarin Context},
-  author={Liu, Heyang and Cheng, Ziayng and Wang, Yuhao and Liu, Hongcheng and Li, Yiqi and Wu, Ronghua and Gu, Qunshan and Wang, Yanfeng and Wang, Yu},
-  journal={arXiv preprint arXiv:2511.08230},
+@article{liu2025vocalbench,
+  title={VocalBench: Benchmarking the Vocal Conversational Abilities for Speech Interaction Models},
+  author={Liu, Heyang and Wang, Yuhao and Cheng, Ziyang and Wu, Ronghua and Gu, Qunshan and Wang, Yanfeng and Wang, Yu},
+  journal={arXiv preprint arXiv:2505.15727},
   year={2025}
 }
 ```
