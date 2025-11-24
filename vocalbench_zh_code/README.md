@@ -19,7 +19,7 @@ Shanghai Jiao Tong University</a>  |  Ant Group</a>
 
 **VocalBench** is a series of evaluation frameworks addressing speech interaction performance, covering diverse instruction formats and conversational scenarios. 
 
-**Data and Code will be uploaded as soon as possible.**
+<!-- **Data and Code will be uploaded as soon as possible.** -->
 
 ## 👀 VocalBench Series
 
@@ -339,10 +339,53 @@ Shanghai Jiao Tong University</a>  |  Ant Group</a>
 - Emotional Empathy Rate (EER): For emotional empathy evaluation, we define emotional empathy rate as the proportion that model response shows empathy on both semantic meanings and acoustic tones.
 - UTMOS and phoneme error rate (PER) are used for acoustic quality.  
 
+## 📌 Evaluation Methods
+
+- AK and Path Modification
+
+```python
+# utils/config.py
+
+keys = ["YOUR_QWEN_KEY_1",
+        "YOUR_QWEN_KEY_2",
+        "YOUR_QWEN_KEY_3"]
+EMOTION2VEC_PLUS_LARGE = '/workspace/tools/emotion2vec_plus_large'
+WHISPER_LARGE_V3 = '/workspace/tools/whisper'
+```
+
+```bash
+cd /workspace/tools/emotion2vec_plus_large
+echo -e "angry\nunuse_0\nunuse_1\nhappy\nneutral\nunuse_2\nsad\nsurprised\n<unk>" > tokens.txt
+```
+
+- Qwenmax-eval for Most Evaluation Sets
+
+```bash
+# e.g. knowledge
+cd utils
+python3 knowledge.py --input_json ../model_output/qwen3-omni/json_asr/chinese_knowledge.json --output_json ../model_output/qwen3-omni/result/chinese_knowledge.json
+```
+
+- Additional Acoustic Constraints for Instruction Following and Emotional Empathy Set 
+```bash
+# e.g. Instruction Following
+python3 instruction_semantic.py --input_json ../model_output/qwen3-omni/json/instruction_following.json --output_json ../model_output/qwen3-omni/result/instruction_following.json
+python3 instruction_full.py --eval_json ../model_output/qwen3-omni/result/instruction_following.json
+# Emotional Empathy
+python3 emotion_semantic.py --input_json ../model_output/qwen3-omni/json/emotion.json --output_json ../model_output/qwen3-omni/result/emotion_semantic.json
+python3 emotion_acoustic.py --wav_dir ../model_output/qwen3-omni/wav/emotion --output_json ../model_output/qwen3-omni/result/emotion_acoustic.json
+python3 emotional_empathy_rate.py --semantic_json ../model_output/qwen3-omni/result/emotion_semantic.json --acoustic_json ../model_output/qwen3-omni/result/emotion_acoustic.json
+```
+
+- For Speech Recognition 
+
+```bash
+python3 whisper_asr.py --input_json ../model_output/qwen3-omni/json/chinese_knowledge.json --output_json ../model_output/qwen3-omni/json_asr/chinese_knowledge.json --audio_dir ../model_output/qwen3-omni/wav/chinese_knowledge
+```
 
 ## 🌞 Acknowledgements
 
-- [Whisper](https://huggingface.co/openai/whisper-large-v3): VocalBench-zh uses Whisper for speech recognition.
+- [Whisper](https://huggingface.co/openai/whisper-large-v3): VocalBench-zh uses Whisper-large-v3 for speech recognition.
 - [pypinyin](https://github.com/mozillazg/python-pinyin): VocalBench-zh uses pypinyin for phoneme error rate calculation.
 - [emotion2vec](https://huggingface.co/emotion2vec/emotion2vec_plus_large): VocalBench-zh uses emotion2vec_plus_large for emotion recognition.
 - [UTMOS](https://github.com/sarulab-speech/UTMOS22): VocalBench uses UTMOS to quantify the acoustic quality.

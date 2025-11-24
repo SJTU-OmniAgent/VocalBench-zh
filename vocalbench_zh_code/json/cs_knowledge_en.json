@@ -1,0 +1,2898 @@
+[
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-000",
+    "Audio": "code_switching/knowledge_en/000.wav",
+    "Question": "Which city is the headquarters of the Mormon church located in?",
+    "Answer": "Salt Lake City",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-001",
+    "Audio": "code_switching/knowledge_en/001.wav",
+    "Question": "Which river originates in the Taurus Mountains and flows through Syria and Iraq?",
+    "Answer": "Euphrates",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-002",
+    "Audio": "code_switching/knowledge_en/002.wav",
+    "Question": "The Tumut Hydroelectric Power Station is in which Australian state?",
+    "Answer": "New South Wales",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-003",
+    "Audio": "code_switching/knowledge_en/003.wav",
+    "Question": "The Isis is the upper reach of which British river?",
+    "Answer": "River Thames",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-004",
+    "Audio": "code_switching/knowledge_en/004.wav",
+    "Question": "Rialto, Scalzi, and Constitution are all bridges in which European city?",
+    "Answer": "Venice",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-005",
+    "Audio": "code_switching/knowledge_en/005.wav",
+    "Question": "Didsbury, Ardwick and Fallowfield are all areas of which British city?",
+    "Answer": "Manchester",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-006",
+    "Audio": "code_switching/knowledge_en/006.wav",
+    "Question": "After what is Fleet Street in London named?",
+    "Answer": "River Fleet",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-007",
+    "Audio": "code_switching/knowledge_en/007.wav",
+    "Question": "Proteus and Nereid are among the moons of which planet?",
+    "Answer": "Neptune",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-008",
+    "Audio": "code_switching/knowledge_en/008.wav",
+    "Question": "In which Lake District town would you find the Cumberland Pencil Museum?",
+    "Answer": "Keswick",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-009",
+    "Audio": "code_switching/knowledge_en/009.wav",
+    "Question": "Mount Ararat is in which country?",
+    "Answer": "Turkey",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-010",
+    "Audio": "code_switching/knowledge_en/010.wav",
+    "Question": "In which country is the La Quebrada cliff and the Acapulco Bay at its foot?",
+    "Answer": "Mexico",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-011",
+    "Audio": "code_switching/knowledge_en/011.wav",
+    "Question": "In which country is the Sierra Madre mountain range, with its highest peak at Cerro Mohinora?",
+    "Answer": "Mexico",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-012",
+    "Audio": "code_switching/knowledge_en/012.wav",
+    "Question": "Which country has parishes including Westmoreland, St Andrew, and Manchester?",
+    "Answer": "Jamaica",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-013",
+    "Audio": "code_switching/knowledge_en/013.wav",
+    "Question": "What type of cancer did Eva Peron have?",
+    "Answer": "Cervical cancer",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-014",
+    "Audio": "code_switching/knowledge_en/014.wav",
+    "Question": "Where was St. Peter killed?",
+    "Answer": "Rome",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-015",
+    "Audio": "code_switching/knowledge_en/015.wav",
+    "Question": "In the Jewish calendar, Sivan is which month of the religious year?",
+    "Answer": "Third",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-016",
+    "Audio": "code_switching/knowledge_en/016.wav",
+    "Question": "Which old English coin was equal to four pence?",
+    "Answer": "Four",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-017",
+    "Audio": "code_switching/knowledge_en/017.wav",
+    "Question": "Ivan the Terrible was a czar of what country?",
+    "Answer": "Russia",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-018",
+    "Audio": "code_switching/knowledge_en/018.wav",
+    "Question": "Who was the Maid of Orleans?",
+    "Answer": "Joan of Arc",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-019",
+    "Audio": "code_switching/knowledge_en/019.wav",
+    "Question": "In legend, what city was founded by Romulus and Remus?",
+    "Answer": "Rome",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-020",
+    "Audio": "code_switching/knowledge_en/020.wav",
+    "Question": "Which British island was known to the Romans as Mona?",
+    "Answer": "Anglesey",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-021",
+    "Audio": "code_switching/knowledge_en/021.wav",
+    "Question": "Matthew Webb swam the English Channel and then drowned swimming where?",
+    "Answer": "Niagara Falls",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-022",
+    "Audio": "code_switching/knowledge_en/022.wav",
+    "Question": "The Elgin Marbles were originally part of which building?",
+    "Answer": "Parthenon",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-023",
+    "Audio": "code_switching/knowledge_en/023.wav",
+    "Question": "In World War II, what were Horsas and Hamilcars?",
+    "Answer": "Glider",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-024",
+    "Audio": "code_switching/knowledge_en/024.wav",
+    "Question": "Who wrote the play \"Julius Caesar\"?",
+    "Answer": "shakespeare",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-025",
+    "Audio": "code_switching/knowledge_en/025.wav",
+    "Question": "Who wrote the novels About a Boy, How to Be Good, and High Fidelity?",
+    "Answer": "Nick Hornby",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-026",
+    "Audio": "code_switching/knowledge_en/026.wav",
+    "Question": "In which of Shakespeare's plays are the title character's last words \"the rest is silence\"?",
+    "Answer": "Hamlet",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-027",
+    "Audio": "code_switching/knowledge_en/027.wav",
+    "Question": "Whose last words were \"Et tu, Brutus\" according to Shakespeare?",
+    "Answer": "Julius Caesar",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-028",
+    "Audio": "code_switching/knowledge_en/028.wav",
+    "Question": "In Greek mythology, Tiresias disclosed the crimes of who?",
+    "Answer": "Oedipus",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-029",
+    "Audio": "code_switching/knowledge_en/029.wav",
+    "Question": "The fictional characters William Dobbin and Rawdon Crawley appear in which novel?",
+    "Answer": "Vanity Fair",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-030",
+    "Audio": "code_switching/knowledge_en/030.wav",
+    "Question": "In which London street does the fictional character Sweeney Todd have his barber shop?",
+    "Answer": "Fleet Street",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-031",
+    "Audio": "code_switching/knowledge_en/031.wav",
+    "Question": "King Robert Baratheon and Queen Cersei Lannister are characters in which United States television fantasy drama series?",
+    "Answer": "Game of Thrones",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-032",
+    "Audio": "code_switching/knowledge_en/032.wav",
+    "Question": "Who produced the illustrated collection of poems Songs of Innocence and Experience?",
+    "Answer": "William Blake",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-033",
+    "Audio": "code_switching/knowledge_en/033.wav",
+    "Question": "Which book of the New Testament, as with Genesis, starts with the words \"In the beginning\"?",
+    "Answer": "Gospel of John",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-034",
+    "Audio": "code_switching/knowledge_en/034.wav",
+    "Question": "Which author created the fictional character Moll Flanders?",
+    "Answer": "Daniel Defoe",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-035",
+    "Audio": "code_switching/knowledge_en/035.wav",
+    "Question": "In the Kipling story Rikki-Tikki-Tavi, the title character defends his adopted family from a pair of murderous cobras. What type of animal is Rikki?",
+    "Answer": "Mongoose",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-036",
+    "Audio": "code_switching/knowledge_en/036.wav",
+    "Question": "In the Blandings Castle stories by P G Wodehouse, what kind of animal is the Empress of Blandings?",
+    "Answer": "Pig",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-037",
+    "Audio": "code_switching/knowledge_en/037.wav",
+    "Question": "In Greek mythology, who were the group of heroes that joined Jason on his journey to Colchis to find the Golden Fleece?",
+    "Answer": "Argonauts",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-038",
+    "Audio": "code_switching/knowledge_en/038.wav",
+    "Question": "Who says \"Is this a dagger that I see before me\" in a Shakespearean play?",
+    "Answer": "Macbeth",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-039",
+    "Audio": "code_switching/knowledge_en/039.wav",
+    "Question": "What profession had been followed by Yorick, a character in Shakespeare's Hamlet?",
+    "Answer": "Jester",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-040",
+    "Audio": "code_switching/knowledge_en/040.wav",
+    "Question": "According to Greek legend, which sorceress helped Jason to find the golden fleece and became his wife?",
+    "Answer": "Medea",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-041",
+    "Audio": "code_switching/knowledge_en/041.wav",
+    "Question": "Hanna Glawari is the title character in which operetta by Franz Lehar?",
+    "Answer": "The Merry Widow",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-042",
+    "Audio": "code_switching/knowledge_en/042.wav",
+    "Question": "My heart aches, and a drowsy numbness pains my sense, as though of hemlock I had drunk, are the opening lines of which poem?",
+    "Answer": "Ode to a Nightingale",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-043",
+    "Audio": "code_switching/knowledge_en/043.wav",
+    "Question": "The Castle of Otranto, often called the first gothic novel, was written in seventeen sixty-four by whom?",
+    "Answer": "Horace Walpole",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-044",
+    "Audio": "code_switching/knowledge_en/044.wav",
+    "Question": "Who swam the Hellespont every night to meet Hero?",
+    "Answer": "Leander",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-045",
+    "Audio": "code_switching/knowledge_en/045.wav",
+    "Question": "Who wrote the book \"Elmer Gantry\"?",
+    "Answer": "Sinclair Lewis",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-046",
+    "Audio": "code_switching/knowledge_en/046.wav",
+    "Question": "Who wrote \"A cauliflower is nothing but a cabbage with a college education\"?",
+    "Answer": "Mark Twain",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-047",
+    "Audio": "code_switching/knowledge_en/047.wav",
+    "Question": "Who wrote the book \"His Dark Materials\"?",
+    "Answer": "Philip Pullman",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-048",
+    "Audio": "code_switching/knowledge_en/048.wav",
+    "Question": "In which play by William Shakespeare does the quote \"All that glisters is not gold\" appear?",
+    "Answer": "The Merchant of Venice",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-049",
+    "Audio": "code_switching/knowledge_en/049.wav",
+    "Question": "Which famous composer, though better known for other works, wrote the music for several films including First of the Few and Henry the Fifth?",
+    "Answer": "William Walton",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-050",
+    "Audio": "code_switching/knowledge_en/050.wav",
+    "Question": "Who wrote the music for the song Moon River?",
+    "Answer": "Henry Mancini",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-051",
+    "Audio": "code_switching/knowledge_en/051.wav",
+    "Question": "Who conceived the effective communication theory known as the Three Modes of Persuasion, comprising Logos, Ethos, and Pathos?",
+    "Answer": "Aristotle",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-052",
+    "Audio": "code_switching/knowledge_en/052.wav",
+    "Question": "Which English town is home to the Stephen Joseph Theatre?",
+    "Answer": "Scarborough",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-053",
+    "Audio": "code_switching/knowledge_en/053.wav",
+    "Question": "Which musical featured the song The Street Where You Live?",
+    "Answer": "My Fair Lady",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-054",
+    "Audio": "code_switching/knowledge_en/054.wav",
+    "Question": "Who directed the nineteen sixty six film A Countess from Hong Kong?",
+    "Answer": "Charlie Chaplin",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-055",
+    "Audio": "code_switching/knowledge_en/055.wav",
+    "Question": "American jazz musician John Coltrane is famous for playing which instrument?",
+    "Answer": "Saxophone",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-056",
+    "Audio": "code_switching/knowledge_en/056.wav",
+    "Question": "In David Hockney's painting \"Mr and Mrs Clark and Percy\", what is Percy?",
+    "Answer": "Cat",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-057",
+    "Audio": "code_switching/knowledge_en/057.wav",
+    "Question": "The Italian soccer club Sampdoria plays home games in which city?",
+    "Answer": "Genoa",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-058",
+    "Audio": "code_switching/knowledge_en/058.wav",
+    "Question": "Who composed the music for the oratorio, \"Belshazzar's Feast\"?",
+    "Answer": "William Walton",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-059",
+    "Audio": "code_switching/knowledge_en/059.wav",
+    "Question": "Who plays Dwight in The Office?",
+    "Answer": "Rainn Wilson",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-060",
+    "Audio": "code_switching/knowledge_en/060.wav",
+    "Question": "Who plays Eowyn in The Lord of the Rings?",
+    "Answer": "Miranda Otto",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-061",
+    "Audio": "code_switching/knowledge_en/061.wav",
+    "Question": "Singer and musician Gordon Sumner is better known by what name?",
+    "Answer": "Sting",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-062",
+    "Audio": "code_switching/knowledge_en/062.wav",
+    "Question": "Who performed the theme song to The Man With The Golden Gun?",
+    "Answer": "Lulu",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-063",
+    "Audio": "code_switching/knowledge_en/063.wav",
+    "Question": "What is Chandler's last name in Friends?",
+    "Answer": "Bing",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-064",
+    "Audio": "code_switching/knowledge_en/064.wav",
+    "Question": "In which Falklands engagement did Colonel H Jones win his Victoria Cross?",
+    "Answer": "Goose Green",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-065",
+    "Audio": "code_switching/knowledge_en/065.wav",
+    "Question": "During which battle did Davey Crockett lose his life?",
+    "Answer": "Battle of the Alamo",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-066",
+    "Audio": "code_switching/knowledge_en/066.wav",
+    "Question": "Which poet wrote The Whitsun Weddings?",
+    "Answer": "Philip Larkin",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-067",
+    "Audio": "code_switching/knowledge_en/067.wav",
+    "Question": "Which writer's first works were gathered into a series of short stories called Plain Tales From The Hills in the eighteen eighties?",
+    "Answer": "Rudyard Kipling",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-068",
+    "Audio": "code_switching/knowledge_en/068.wav",
+    "Question": "The Fair Maid of Perth is a novel by which author?",
+    "Answer": "Walter Scott",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-069",
+    "Audio": "code_switching/knowledge_en/069.wav",
+    "Question": "Who wrote the opera \"Dido and Aeneas\"?",
+    "Answer": "Henry Purcell",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-070",
+    "Audio": "code_switching/knowledge_en/070.wav",
+    "Question": "On what play by George Bernard Shaw is the musical My Fair Lady based?",
+    "Answer": "Pygmalion",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-071",
+    "Audio": "code_switching/knowledge_en/071.wav",
+    "Question": "Who wrote the music for the musical \"A Chorus Line\"?",
+    "Answer": "Marvin Hamlisch",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-072",
+    "Audio": "code_switching/knowledge_en/072.wav",
+    "Question": "Which nineteen eighty-three film starring Shirley MacLaine and Debra Winger won five Oscars?",
+    "Answer": "Terms of Endearment",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-073",
+    "Audio": "code_switching/knowledge_en/073.wav",
+    "Question": "The bestselling children's book \"Grandpa's great escape\" is by which writer?",
+    "Answer": "David Walliams",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-074",
+    "Audio": "code_switching/knowledge_en/074.wav",
+    "Question": "Who wrote the play She Stoops to Conquer?",
+    "Answer": "Oliver Goldsmith",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-075",
+    "Audio": "code_switching/knowledge_en/075.wav",
+    "Question": "Who is the only dwarf in the Disney tale of Snow White who wears glasses?",
+    "Answer": "DOC",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-076",
+    "Audio": "code_switching/knowledge_en/076.wav",
+    "Question": "Which Alan Bennett play features Cutlers Grammar School in Sheffield?",
+    "Answer": "The History Boys",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-077",
+    "Audio": "code_switching/knowledge_en/077.wav",
+    "Question": "Which work by Gilbert and Sullivan features the Duke of Plaza Toro and his daughter Casilda, who becomes the Queen of Barataria?",
+    "Answer": "The Gondoliers",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-078",
+    "Audio": "code_switching/knowledge_en/078.wav",
+    "Question": "In which film does psychopath Annie Wilkes wield a sledgehammer to horrific effect?",
+    "Answer": "Misery",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-079",
+    "Audio": "code_switching/knowledge_en/079.wav",
+    "Question": "To which order of monks does or did Pope Francis belong?",
+    "Answer": "Society of Jesus",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-080",
+    "Audio": "code_switching/knowledge_en/080.wav",
+    "Question": "The rivers Trent and Ouse flow into which estuary?",
+    "Answer": "Humber",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-081",
+    "Audio": "code_switching/knowledge_en/081.wav",
+    "Question": "In what country is Tiahuanaco?",
+    "Answer": "Bolivia",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-082",
+    "Audio": "code_switching/knowledge_en/082.wav",
+    "Question": "The Gilles Villeneuve Formula One racing circuit is in which country?",
+    "Answer": "Canada",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-083",
+    "Audio": "code_switching/knowledge_en/083.wav",
+    "Question": "What country does Justin Bieber come from?",
+    "Answer": "Canada",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-084",
+    "Audio": "code_switching/knowledge_en/084.wav",
+    "Question": "Who played Bilbo in The Fellowship of the Ring?",
+    "Answer": "Ian Holm",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-085",
+    "Audio": "code_switching/knowledge_en/085.wav",
+    "Question": "What team did Peyton Manning's dad play for?",
+    "Answer": "New Orleans",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-086",
+    "Audio": "code_switching/knowledge_en/086.wav",
+    "Question": "What cancer did Patrick Swayze have?",
+    "Answer": "Pancreatic cancer",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-087",
+    "Audio": "code_switching/knowledge_en/087.wav",
+    "Question": "Wayne Rooney signed for Manchester United from which other Premier League club?",
+    "Answer": "Everton",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-088",
+    "Audio": "code_switching/knowledge_en/088.wav",
+    "Question": "What is Robin Williams' character called in Good Morning Vietnam?",
+    "Answer": "Adrian",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-089",
+    "Audio": "code_switching/knowledge_en/089.wav",
+    "Question": "Who directed the nineteen sixty-nine film 'Women in Love', starring Oliver Reed and Glenda Jackson?",
+    "Answer": "Ken Russell",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-090",
+    "Audio": "code_switching/knowledge_en/090.wav",
+    "Question": "What was the name of the Liverpool nightclub where the Beatles regularly played?",
+    "Answer": "The Cavern Club",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-091",
+    "Audio": "code_switching/knowledge_en/091.wav",
+    "Question": "Comedian, actor and director Melvin Kaminsky is better known by what name?",
+    "Answer": "Mel Brooks",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-092",
+    "Audio": "code_switching/knowledge_en/092.wav",
+    "Question": "British actor Maurice Micklewhite is better known by what name?",
+    "Answer": "Michael Caine",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-093",
+    "Audio": "code_switching/knowledge_en/093.wav",
+    "Question": "Who plays Captain Kirk in Star Trek?",
+    "Answer": "William Shatner",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-094",
+    "Audio": "code_switching/knowledge_en/094.wav",
+    "Question": "Who plays the title character in the two thousand three film Johnny English?",
+    "Answer": "Rowan Atkinson",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-095",
+    "Audio": "code_switching/knowledge_en/095.wav",
+    "Question": "Which TV show is set in the fictional town of Stars Hollow Connecticut?",
+    "Answer": "Gilmore Girls",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-096",
+    "Audio": "code_switching/knowledge_en/096.wav",
+    "Question": "What family killed actress Sharon Tate and others?",
+    "Answer": "Charles Manson",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-097",
+    "Audio": "code_switching/knowledge_en/097.wav",
+    "Question": "In which Canadian city is the Lion's Gate Bridge located?",
+    "Answer": "Vancouver",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-098",
+    "Audio": "code_switching/knowledge_en/098.wav",
+    "Question": "What was Jacques Cousteau's mobile oceanographic laboratory?",
+    "Answer": "Calypso",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-099",
+    "Audio": "code_switching/knowledge_en/099.wav",
+    "Question": "Wrigley Field in Chicago, USA, is a venue for which sport?",
+    "Answer": "Baseball",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-100",
+    "Audio": "code_switching/knowledge_en/100.wav",
+    "Question": "Which country used to be called Southern Rhodesia?",
+    "Answer": "Zimbabwe",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-101",
+    "Audio": "code_switching/knowledge_en/101.wav",
+    "Question": "Damascus is the capital of which country?",
+    "Answer": "Syria",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-102",
+    "Audio": "code_switching/knowledge_en/102.wav",
+    "Question": "What country has Sinhala as its official language?",
+    "Answer": "Sri Lanka",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-103",
+    "Audio": "code_switching/knowledge_en/103.wav",
+    "Question": "What city celebrates the original Oktoberfest?",
+    "Answer": "Munich",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-104",
+    "Audio": "code_switching/knowledge_en/104.wav",
+    "Question": "In what national park would you find Half Dome?",
+    "Answer": "Yosemite National Park",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-105",
+    "Audio": "code_switching/knowledge_en/105.wav",
+    "Question": "Mt. Aconcagua, the highest peak in the Western Hemisphere, stands in which South American country?",
+    "Answer": "Argentina",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-106",
+    "Audio": "code_switching/knowledge_en/106.wav",
+    "Question": "What is Basutoland now known as?",
+    "Answer": "Lesotho",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-107",
+    "Audio": "code_switching/knowledge_en/107.wav",
+    "Question": "The River Yarra flows through which city?",
+    "Answer": "Melbourne",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-108",
+    "Audio": "code_switching/knowledge_en/108.wav",
+    "Question": "The Griffith Observatory is situated in what U S city?",
+    "Answer": "Los Angeles",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-109",
+    "Audio": "code_switching/knowledge_en/109.wav",
+    "Question": "Who was the pharaoh who built the Great Pyramid of Giza?",
+    "Answer": "Khufu",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-110",
+    "Audio": "code_switching/knowledge_en/110.wav",
+    "Question": "What country did Buddha come from?",
+    "Answer": "India",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-111",
+    "Audio": "code_switching/knowledge_en/111.wav",
+    "Question": "Where does Archbishop Desmond Tutu live?",
+    "Answer": "South Africa",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-112",
+    "Audio": "code_switching/knowledge_en/112.wav",
+    "Question": "Who was the Manchester United manager right before Alex Ferguson?",
+    "Answer": "Ron Atkinson",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-113",
+    "Audio": "code_switching/knowledge_en/113.wav",
+    "Question": "Which Greek philosopher taught at the Lyceum?",
+    "Answer": "Aristotle",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-114",
+    "Audio": "code_switching/knowledge_en/114.wav",
+    "Question": "Against which state did Athens fight the Peloponnesian Wars?",
+    "Answer": "Sparta",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-115",
+    "Audio": "code_switching/knowledge_en/115.wav",
+    "Question": "Which city in Georgia was burned by General Sherman during the American Civil War?",
+    "Answer": "Atlanta",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-116",
+    "Audio": "code_switching/knowledge_en/116.wav",
+    "Question": "Who killed Goliath with a sling and a stone?",
+    "Answer": "David",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-117",
+    "Audio": "code_switching/knowledge_en/117.wav",
+    "Question": "Which king of England sold Dunkirk to Louis the fourteenth of France?",
+    "Answer": "Charles II",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-118",
+    "Audio": "code_switching/knowledge_en/118.wav",
+    "Question": "Umberto the second was the last king of which European country?",
+    "Answer": "Italy",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-119",
+    "Audio": "code_switching/knowledge_en/119.wav",
+    "Question": "The Battle of Balaclava was in which war?",
+    "Answer": "Crimean War",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-120",
+    "Audio": "code_switching/knowledge_en/120.wav",
+    "Question": "In which district of East London did Jack the Ripper operate?",
+    "Answer": "Whitechapel",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-121",
+    "Audio": "code_switching/knowledge_en/121.wav",
+    "Question": "In Egyptian mythology, of what is Nut the goddess?",
+    "Answer": "Sky",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-122",
+    "Audio": "code_switching/knowledge_en/122.wav",
+    "Question": "What was the name of the island where Nelson Mandela was imprisoned for eighteen years?",
+    "Answer": "Robben Island",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-123",
+    "Audio": "code_switching/knowledge_en/123.wav",
+    "Question": "Where did Scott Fitzgerald go to college?",
+    "Answer": "Princeton University",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-124",
+    "Audio": "code_switching/knowledge_en/124.wav",
+    "Question": "Who wrote the nineteen seventy-five novel 'The History Man'?",
+    "Answer": "Malcolm Bradbury",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-125",
+    "Audio": "code_switching/knowledge_en/125.wav",
+    "Question": "What building in Scotland is said to house the Holy Grail and features prominently at the end of the Da Vinci code?",
+    "Answer": "Rosslyn Chapel",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-126",
+    "Audio": "code_switching/knowledge_en/126.wav",
+    "Question": "Captain Corelli's mandolin is a book and a film set in which country?",
+    "Answer": "Greece",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-127",
+    "Audio": "code_switching/knowledge_en/127.wav",
+    "Question": "In the Jungle Book, what type of creature was Bagheera?",
+    "Answer": "Panther",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-128",
+    "Audio": "code_switching/knowledge_en/128.wav",
+    "Question": "Which knight is with Arthur at the end and throws Excalibur into the lake?",
+    "Answer": "Bedivere",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-129",
+    "Audio": "code_switching/knowledge_en/129.wav",
+    "Question": "Joe Gargery is a character in which Charles Dickens novel?",
+    "Answer": "Great Expectations",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-130",
+    "Audio": "code_switching/knowledge_en/130.wav",
+    "Question": "Plato and Xenophon were both pupils of which Greek philosopher?",
+    "Answer": "Socrates",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-131",
+    "Audio": "code_switching/knowledge_en/131.wav",
+    "Question": "The names for the satellites of which planet are chosen from characters from the works of William Shakespeare and Alexander Pope?",
+    "Answer": "Uranus",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-132",
+    "Audio": "code_switching/knowledge_en/132.wav",
+    "Question": "Who wrote the poem \"Daffodils\"?",
+    "Answer": "William Wordsworth",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-133",
+    "Audio": "code_switching/knowledge_en/133.wav",
+    "Question": "The popular humming chorus comes from which Puccini opera?",
+    "Answer": "Madama Butterfly",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-134",
+    "Audio": "code_switching/knowledge_en/134.wav",
+    "Question": "What is the only book written by Emily Bronte?",
+    "Answer": "Wuthering Heights",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-135",
+    "Audio": "code_switching/knowledge_en/135.wav",
+    "Question": "The film ten things I hate about you was inspired by which of Shakespeare's plays?",
+    "Answer": "The Taming of the Shrew",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-136",
+    "Audio": "code_switching/knowledge_en/136.wav",
+    "Question": "What did Cinderella's carriage turn into after midnight?",
+    "Answer": "Pumpkin",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-137",
+    "Audio": "code_switching/knowledge_en/137.wav",
+    "Question": "Who wrote \"Leaves of Grass\"?",
+    "Answer": "Walt Whitman",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-138",
+    "Audio": "code_switching/knowledge_en/138.wav",
+    "Question": "Which famous novelist also wrote under the pen name Mary Westmacott?",
+    "Answer": "Agatha Christie",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-139",
+    "Audio": "code_switching/knowledge_en/139.wav",
+    "Question": "What is the name of Beethoven's only opera?",
+    "Answer": "Fidelio",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-140",
+    "Audio": "code_switching/knowledge_en/140.wav",
+    "Question": "Whose girlfriend is Becky Thatcher in literature?",
+    "Answer": "Tom Sawyer",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-141",
+    "Audio": "code_switching/knowledge_en/141.wav",
+    "Question": "In which city is the majority of Shakespeare's Romeo and Juliet set?",
+    "Answer": "Verona",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-142",
+    "Audio": "code_switching/knowledge_en/142.wav",
+    "Question": "In Greek mythology, who did flute-playing shepherd Marsyas challenge to a music contest, the winner of which flayed Marsyas to death for his presumption?",
+    "Answer": "Apollo",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-143",
+    "Audio": "code_switching/knowledge_en/143.wav",
+    "Question": "According to Arthurian legend, who was Sir Galahad's father?",
+    "Answer": "Lancelot",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-144",
+    "Audio": "code_switching/knowledge_en/144.wav",
+    "Question": "Which Indian-born author who lived from nineteen hundred three to nineteen fifty had the real name Eric Arthur Blair?",
+    "Answer": "George Orwell",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-145",
+    "Audio": "code_switching/knowledge_en/145.wav",
+    "Question": "Tybalt is a character in which of Shakespeare's plays?",
+    "Answer": "Romeo and Juliet",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-146",
+    "Audio": "code_switching/knowledge_en/146.wav",
+    "Question": "Hillary Mantel won the 2009 Booker Prize with which novel?",
+    "Answer": "Wolf Hall",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-147",
+    "Audio": "code_switching/knowledge_en/147.wav",
+    "Question": "What type of animal is Wilbur in the story Charlotte's Web?",
+    "Answer": "Pig",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-148",
+    "Audio": "code_switching/knowledge_en/148.wav",
+    "Question": "The Alfred Hitchcock films Rebecca and The Birds were based on novels by which author?",
+    "Answer": "Daphne du Maurier",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-149",
+    "Audio": "code_switching/knowledge_en/149.wav",
+    "Question": "Which literary character is the best known creation of the writer Earl Derr Biggers?",
+    "Answer": "Charlie Chan",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-150",
+    "Audio": "code_switching/knowledge_en/150.wav",
+    "Question": "In which Ayrshire village will you find the cottage where poet Robert Burns was born, which is now a museum?",
+    "Answer": "Alloway",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-151",
+    "Audio": "code_switching/knowledge_en/151.wav",
+    "Question": "In which of Thomas Hardy's novels is Bathsheba Everdene the main character?",
+    "Answer": "Far from the Madding Crowd",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-152",
+    "Audio": "code_switching/knowledge_en/152.wav",
+    "Question": "In Greek mythology, what were the names of the nymphs who tended the garden from where Heracles stole the golden apples?",
+    "Answer": "Hesperides",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-153",
+    "Audio": "code_switching/knowledge_en/153.wav",
+    "Question": "Who was the author of \"Daniel Deronda\" published in eighteen seventy-six?",
+    "Answer": "George Eliot",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-154",
+    "Audio": "code_switching/knowledge_en/154.wav",
+    "Question": "Which novel features the scholar Humbert Humbert?",
+    "Answer": "Lolita",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-155",
+    "Audio": "code_switching/knowledge_en/155.wav",
+    "Question": "Which island was home to Odysseus?",
+    "Answer": "Ithaca",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-156",
+    "Audio": "code_switching/knowledge_en/156.wav",
+    "Question": "According to Arthurian legend, Arthur's wife Guinevere had a little on the side with which knight of the round table?",
+    "Answer": "Lancelot",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-157",
+    "Audio": "code_switching/knowledge_en/157.wav",
+    "Question": "In order to secure the help of the Wizard, whose broom must Dorothy steal in The Wizard of Oz?",
+    "Answer": "Wicked Witch of the West",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-158",
+    "Audio": "code_switching/knowledge_en/158.wav",
+    "Question": "The village of Tightwad is in which U.S. state?",
+    "Answer": "Missouri",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-159",
+    "Audio": "code_switching/knowledge_en/159.wav",
+    "Question": "What country is PIA the national airline of?",
+    "Answer": "Pakistan",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-160",
+    "Audio": "code_switching/knowledge_en/160.wav",
+    "Question": "Inspector Bucket is a character in which novel by Charles Dickens?",
+    "Answer": "Bleak House",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-161",
+    "Audio": "code_switching/knowledge_en/161.wav",
+    "Question": "The name Jessica was invented by William Shakespeare for which of his plays?",
+    "Answer": "The Merchant of Venice",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-162",
+    "Audio": "code_switching/knowledge_en/162.wav",
+    "Question": "Who created Rumpole of the Bailey?",
+    "Answer": "John Mortimer",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-163",
+    "Audio": "code_switching/knowledge_en/163.wav",
+    "Question": "Which detective was created by G.K.Chesterton?",
+    "Answer": "Father Brown",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-164",
+    "Audio": "code_switching/knowledge_en/164.wav",
+    "Question": "In the books by Milne, what was Eeyore?",
+    "Answer": "Donkey",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-165",
+    "Audio": "code_switching/knowledge_en/165.wav",
+    "Question": "Who wrote the nonsense poem \"Jabberwocky\"?",
+    "Answer": "Lewis Carroll",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-166",
+    "Audio": "code_switching/knowledge_en/166.wav",
+    "Question": "The novels of which contemporary author feature the character Dirk Pitt?",
+    "Answer": "Clive Cussler",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-167",
+    "Audio": "code_switching/knowledge_en/167.wav",
+    "Question": "Which national anthem appears in The Beatles song All You Need Is Love?",
+    "Answer": "La Marseillaise",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-168",
+    "Audio": "code_switching/knowledge_en/168.wav",
+    "Question": "What is gamophobia the fear of?",
+    "Answer": "Marriage",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-169",
+    "Audio": "code_switching/knowledge_en/169.wav",
+    "Question": "From which sport do we get the expression \"par for the course\"?",
+    "Answer": "Golf",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-170",
+    "Audio": "code_switching/knowledge_en/170.wav",
+    "Question": "Who was Poopdeck Pappy's most famous son?",
+    "Answer": "Popeye",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-171",
+    "Audio": "code_switching/knowledge_en/171.wav",
+    "Question": "Which company uses the advertising slogan every little helps?",
+    "Answer": "Tesco",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-172",
+    "Audio": "code_switching/knowledge_en/172.wav",
+    "Question": "Which city is known as the city of canals?",
+    "Answer": "Venice",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-173",
+    "Audio": "code_switching/knowledge_en/173.wav",
+    "Question": "Which US state is nicknamed both the colourful state and the land of enchantment?",
+    "Answer": "New Mexico",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-174",
+    "Audio": "code_switching/knowledge_en/174.wav",
+    "Question": "Which US state is known as the Palmetto State?",
+    "Answer": "South Carolina",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-175",
+    "Audio": "code_switching/knowledge_en/175.wav",
+    "Question": "Which of the United States of America is known as the Old Colony State?",
+    "Answer": "Massachusetts",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-176",
+    "Audio": "code_switching/knowledge_en/176.wav",
+    "Question": "Nicknamed Old Grog, which eighteenth century Admiral ordered the watering down of Royal Navy rum rations?",
+    "Answer": "Edward Vernon",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-177",
+    "Audio": "code_switching/knowledge_en/177.wav",
+    "Question": "Who was the American general known as \"Vinegar Joe\"?",
+    "Answer": "Joseph Stilwell",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-178",
+    "Audio": "code_switching/knowledge_en/178.wav",
+    "Question": "Author J.R.R. Tolkien was born in which country?",
+    "Answer": "South Africa",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-179",
+    "Audio": "code_switching/knowledge_en/179.wav",
+    "Question": "Playwright J. M. Barrie used a drawing by English artist Ben Nicholson as the base for a poster for which play?",
+    "Answer": "Peter Pan",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-180",
+    "Audio": "code_switching/knowledge_en/180.wav",
+    "Question": "Chim Chim Cheree, I Love to Laugh and Feed the Birds are all songs from which film?",
+    "Answer": "Mary Poppins",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-181",
+    "Audio": "code_switching/knowledge_en/181.wav",
+    "Question": "Who is the mythical Greek figure that Christopher Marlowe referred to with the phrase \"the face that launched a thousand ships\" in his tragedy Doctor Faustus?",
+    "Answer": "Helen of Troy",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-182",
+    "Audio": "code_switching/knowledge_en/182.wav",
+    "Question": "In the nursery rhyme beginning \"Hey Diddle Diddle,\" who ran away with the spoon?",
+    "Answer": "Dish",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-183",
+    "Audio": "code_switching/knowledge_en/183.wav",
+    "Question": "Getting to Know You is a song from which film?",
+    "Answer": "The King and I",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-184",
+    "Audio": "code_switching/knowledge_en/184.wav",
+    "Question": "Which American wit said, \"This is not a novel to be tossed aside lightly. It should be thrown with great force\"?",
+    "Answer": "Dorothy Parker",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-185",
+    "Audio": "code_switching/knowledge_en/185.wav",
+    "Question": "Who wrote the play \"A Day in the Death of Joe Egg\"?",
+    "Answer": "Peter Nichols",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-186",
+    "Audio": "code_switching/knowledge_en/186.wav",
+    "Question": "Who is supposed to have said as he was dying, \"I am dying as I have lived, beyond my means\"?",
+    "Answer": "Oscar Wilde",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-187",
+    "Audio": "code_switching/knowledge_en/187.wav",
+    "Question": "What was the pseudonym of author John Griffith Chaney?",
+    "Answer": "Jack London",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-188",
+    "Audio": "code_switching/knowledge_en/188.wav",
+    "Question": "Who wrote \"The female of the species more deadly than the male\"?",
+    "Answer": "Rudyard Kipling",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-189",
+    "Audio": "code_switching/knowledge_en/189.wav",
+    "Question": "The Nag's Head was the local pub in which TV comedy series?",
+    "Answer": "Only Fools and Horses",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-190",
+    "Audio": "code_switching/knowledge_en/190.wav",
+    "Question": "Which charity was founded in London in nineteen sixty-one following the publication of the article \"The Forgotten Prisoners\" in The Observer?",
+    "Answer": "Amnesty International",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-191",
+    "Audio": "code_switching/knowledge_en/191.wav",
+    "Question": "What is the main motto of the organization that says \"Service Above Self\"?",
+    "Answer": "Rotary International",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-192",
+    "Audio": "code_switching/knowledge_en/192.wav",
+    "Question": "What is measured by a Bourdon gauge?",
+    "Answer": "Pressure",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-193",
+    "Audio": "code_switching/knowledge_en/193.wav",
+    "Question": "What was developed at the Bell Telephone Company under the direction of Dr William Shockley?",
+    "Answer": "Transistor",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-194",
+    "Audio": "code_switching/knowledge_en/194.wav",
+    "Question": "Denis Gabor won the nineteen seventy-one Nobel Prize in Physics for which invention?",
+    "Answer": "Holography",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-195",
+    "Audio": "code_switching/knowledge_en/195.wav",
+    "Question": "What subject did scientist Ernest Rutherford say that all real science is, while comparing the rest to stamp collecting?",
+    "Answer": "Physics",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-196",
+    "Audio": "code_switching/knowledge_en/196.wav",
+    "Question": "What country is the Mossad the intelligence agency of?",
+    "Answer": "Israel",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-197",
+    "Audio": "code_switching/knowledge_en/197.wav",
+    "Question": "Zamalek is a top football club from which African country?",
+    "Answer": "Egypt",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-198",
+    "Audio": "code_switching/knowledge_en/198.wav",
+    "Question": "\"Don't be evil\" is the motto of which internet company?",
+    "Answer": "Google",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-199",
+    "Audio": "code_switching/knowledge_en/199.wav",
+    "Question": "The dance fitness program Zumba originated in which country?",
+    "Answer": "Colombia",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-200",
+    "Audio": "code_switching/knowledge_en/200.wav",
+    "Question": "Responsible for such novels as Burmese Days, Keep the Aspidistra Flying, and Coming Up for Air, British author Eric Blair was popularly known as whom?",
+    "Answer": "George Orwell",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-201",
+    "Audio": "code_switching/knowledge_en/201.wav",
+    "Question": "Which of Robin Hood's Merry Men did he have to fight with quarterstaffs on a narrow bridge?",
+    "Answer": "Little John",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-202",
+    "Audio": "code_switching/knowledge_en/202.wav",
+    "Question": "What music did Louis Armstrong play?",
+    "Answer": "Jazz",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-203",
+    "Audio": "code_switching/knowledge_en/203.wav",
+    "Question": "Who founded the London Philharmonic Orchestra in nineteen thirty-one?",
+    "Answer": "Thomas Beecham",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-204",
+    "Audio": "code_switching/knowledge_en/204.wav",
+    "Question": "Sunrise, Sunset and Tradition are songs from which musical?",
+    "Answer": "Fiddler on the Roof",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-205",
+    "Audio": "code_switching/knowledge_en/205.wav",
+    "Question": "Ivan Galamian has had world wide influence as a teacher of what?",
+    "Answer": "Violin",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-206",
+    "Audio": "code_switching/knowledge_en/206.wav",
+    "Question": "What did the scientist Chadwick discover?",
+    "Answer": "Neutron",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-207",
+    "Audio": "code_switching/knowledge_en/207.wav",
+    "Question": "What field was Beatrice Tinsley well known in?",
+    "Answer": "Astronomy",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-208",
+    "Audio": "code_switching/knowledge_en/208.wav",
+    "Question": "What was the cause of death for Bruce Lee?",
+    "Answer": "Cerebral edema",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-209",
+    "Audio": "code_switching/knowledge_en/209.wav",
+    "Question": "Who invented the term \"Oedipus complex\"?",
+    "Answer": "Sigmund Freud",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-210",
+    "Audio": "code_switching/knowledge_en/210.wav",
+    "Question": "Herman Van Rompuy became the first permanent president of what?",
+    "Answer": "European Council",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-211",
+    "Audio": "code_switching/knowledge_en/211.wav",
+    "Question": "The hall of fame for what sport is located in Saratoga Springs, New York, where the announcement of new inductees is usually made on the first Saturday in May in Louisville, Kentucky?",
+    "Answer": "Horse racing",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-212",
+    "Audio": "code_switching/knowledge_en/212.wav",
+    "Question": "Which nation has the world's longest running TV sports show, Hockey Night, that first aired in nineteen fifty-two?",
+    "Answer": "Canada",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-213",
+    "Audio": "code_switching/knowledge_en/213.wav",
+    "Question": "In baseball, where do the Orioles come from?",
+    "Answer": "Baltimore",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-214",
+    "Audio": "code_switching/knowledge_en/214.wav",
+    "Question": "The La Scala Opera House is in which European city?",
+    "Answer": "Milan",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-215",
+    "Audio": "code_switching/knowledge_en/215.wav",
+    "Question": "Who was Frida Kahlo influenced by?",
+    "Answer": "Diego Rivera",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-216",
+    "Audio": "code_switching/knowledge_en/216.wav",
+    "Question": "What type of art does Claude Monet do?",
+    "Answer": "Impressionism",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-217",
+    "Audio": "code_switching/knowledge_en/217.wav",
+    "Question": "In which European city is the Belvedere Gallery?",
+    "Answer": "Vienna",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-218",
+    "Audio": "code_switching/knowledge_en/218.wav",
+    "Question": "Who composed the musical theme for the Pink Panther?",
+    "Answer": "Henry Mancini",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-219",
+    "Audio": "code_switching/knowledge_en/219.wav",
+    "Question": "Which artist, a member of the Order of Merit, was born in Bradford in July nineteen thirty-seven?",
+    "Answer": "David Hockney",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-220",
+    "Audio": "code_switching/knowledge_en/220.wav",
+    "Question": "Who directed the classic thirty's western Stagecoach?",
+    "Answer": "John Ford",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-221",
+    "Audio": "code_switching/knowledge_en/221.wav",
+    "Question": "Composers Joseph Haydn and Franz Schubert were born in which country?",
+    "Answer": "Austria",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-222",
+    "Audio": "code_switching/knowledge_en/222.wav",
+    "Question": "With what area of expertise do you associate the name Annie Leibovitz?",
+    "Answer": "Photography",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-223",
+    "Audio": "code_switching/knowledge_en/223.wav",
+    "Question": "In which film did teacher John Keating break all the rules?",
+    "Answer": "Dead Poets Society",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-224",
+    "Audio": "code_switching/knowledge_en/224.wav",
+    "Question": "The Walker Art Gallery is in which UK city?",
+    "Answer": "Liverpool",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-225",
+    "Audio": "code_switching/knowledge_en/225.wav",
+    "Question": "Which US artist married Lee Krasner in 1945?",
+    "Answer": "Jackson Pollock",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-226",
+    "Audio": "code_switching/knowledge_en/226.wav",
+    "Question": "Which Lloyd Webber musical premiered in the US on the tenth of December nineteen ninety-three?",
+    "Answer": "Sunset Boulevard",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-227",
+    "Audio": "code_switching/knowledge_en/227.wav",
+    "Question": "The Uffizi and the Bargello are among the museums of art in which European city?",
+    "Answer": "Florence",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-228",
+    "Audio": "code_switching/knowledge_en/228.wav",
+    "Question": "What activity is Benesh Notation the written language for?",
+    "Answer": "Dance",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-229",
+    "Audio": "code_switching/knowledge_en/229.wav",
+    "Question": "What is the name of Tchaikovsky's famous ballet that begins on Christmas Eve?",
+    "Answer": "The Nutcracker",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-230",
+    "Audio": "code_switching/knowledge_en/230.wav",
+    "Question": "Ninette de Valois was involved professionally in what activity?",
+    "Answer": "Ballet",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-231",
+    "Audio": "code_switching/knowledge_en/231.wav",
+    "Question": "What field was Man Ray famous in?",
+    "Answer": "Photography",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-232",
+    "Audio": "code_switching/knowledge_en/232.wav",
+    "Question": "What was Sweeney Todd's occupation in Stephen Sondheim's work?",
+    "Answer": "Barber",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-233",
+    "Audio": "code_switching/knowledge_en/233.wav",
+    "Question": "What did Thomas Chippendale design?",
+    "Answer": "Furniture",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-234",
+    "Audio": "code_switching/knowledge_en/234.wav",
+    "Question": "In what country did Bossa Nova music originate?",
+    "Answer": "Brazil",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-235",
+    "Audio": "code_switching/knowledge_en/235.wav",
+    "Question": "Who wrote, directed, and starred in Citizen Kane?",
+    "Answer": "Orson Welles",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-236",
+    "Audio": "code_switching/knowledge_en/236.wav",
+    "Question": "What was the name of the type of art particularly associated with Salvador Dali?",
+    "Answer": "Surrealism",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-237",
+    "Audio": "code_switching/knowledge_en/237.wav",
+    "Question": "Which American scene artist painted Cape Cod evening?",
+    "Answer": "Edward Hopper",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-238",
+    "Audio": "code_switching/knowledge_en/238.wav",
+    "Question": "Who directed the nineteen forty-nine film, 'The Third Man'?",
+    "Answer": "Carol Reed",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-239",
+    "Audio": "code_switching/knowledge_en/239.wav",
+    "Question": "In which field of the arts is Terry O'Neill a leading name?",
+    "Answer": "Photography",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-240",
+    "Audio": "code_switching/knowledge_en/240.wav",
+    "Question": "In Verdi's opera Rigoletto, what is the name of the title character's daughter?",
+    "Answer": "Gilda",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-241",
+    "Audio": "code_switching/knowledge_en/241.wav",
+    "Question": "What movie featured a talking candelabra named Lumiere?",
+    "Answer": "Beauty and the Beast",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-242",
+    "Audio": "code_switching/knowledge_en/242.wav",
+    "Question": "Which architect designed the new London building known as the Shard?",
+    "Answer": "Renzo Piano",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-243",
+    "Audio": "code_switching/knowledge_en/243.wav",
+    "Question": "Which artist was known as \"Jack the Dripper\"?",
+    "Answer": "Jackson Pollock",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-244",
+    "Audio": "code_switching/knowledge_en/244.wav",
+    "Question": "The Whitworth Art Gallery is in which English city?",
+    "Answer": "Manchester",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-245",
+    "Audio": "code_switching/knowledge_en/245.wav",
+    "Question": "Who directed the two thousand thirteen film 'Twelve Years a Slave'?",
+    "Answer": "Steve McQueen",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-246",
+    "Audio": "code_switching/knowledge_en/246.wav",
+    "Question": "Who directed the film Life of Pi?",
+    "Answer": "Ang Lee",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-247",
+    "Audio": "code_switching/knowledge_en/247.wav",
+    "Question": "Alfred Munnings was famous for his paintings of what?",
+    "Answer": "Horse",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-248",
+    "Audio": "code_switching/knowledge_en/248.wav",
+    "Question": "Who composed the War Requiem?",
+    "Answer": "Benjamin Britten",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-249",
+    "Audio": "code_switching/knowledge_en/249.wav",
+    "Question": "What is the distinctive color of the soles of shoes designed by Christian Louboutin?",
+    "Answer": "Red",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-250",
+    "Audio": "code_switching/knowledge_en/250.wav",
+    "Question": "The statue of the Little Mermaid is in the harbor of which city?",
+    "Answer": "Copenhagen",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-251",
+    "Audio": "code_switching/knowledge_en/251.wav",
+    "Question": "What period film by Stanley Kubrick about the adventures of an eighteenth century Irish adventurer is loosely based on a novel by William Makepeace Thackeray?",
+    "Answer": "Barry Lyndon",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-252",
+    "Audio": "code_switching/knowledge_en/252.wav",
+    "Question": "Who painted two famous portraits of Dr Paul Gachet?",
+    "Answer": "Vincent van Gogh",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-253",
+    "Audio": "code_switching/knowledge_en/253.wav",
+    "Question": "Canaletto is famous for his landscapes of Venice and which other city?",
+    "Answer": "London",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-254",
+    "Audio": "code_switching/knowledge_en/254.wav",
+    "Question": "The musical \"Jersey Boys\" is based around the music of which American pop group?",
+    "Answer": "The Four Seasons",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-255",
+    "Audio": "code_switching/knowledge_en/255.wav",
+    "Question": "What was the name of the knight of the holy grail in an opera by Wagner?",
+    "Answer": "Parsifal",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-256",
+    "Audio": "code_switching/knowledge_en/256.wav",
+    "Question": "Which art gallery is in Trafalgar Square?",
+    "Answer": "National Gallery",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-257",
+    "Audio": "code_switching/knowledge_en/257.wav",
+    "Question": "Who composed the musical shows Swingtime and Showboat?",
+    "Answer": "Jerome Kern",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-258",
+    "Audio": "code_switching/knowledge_en/258.wav",
+    "Question": "Who painted \"Rouen Cathedral at sunset\" found in the Museum of Fine Arts in Boston, USA?",
+    "Answer": "Claude Monet",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-259",
+    "Audio": "code_switching/knowledge_en/259.wav",
+    "Question": "Which musical features the nurse Nellie Forbush?",
+    "Answer": "South Pacific",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-260",
+    "Audio": "code_switching/knowledge_en/260.wav",
+    "Question": "Which Italian artist painted The School of Athens?",
+    "Answer": "Raphael",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-261",
+    "Audio": "code_switching/knowledge_en/261.wav",
+    "Question": "Akira Yoshizawa, to whom Google paid a tribute with a doodle of folded letters on the fourteenth of March, two thousand twelve, is said to have elevated what craft into an art form?",
+    "Answer": "Origami",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-262",
+    "Audio": "code_switching/knowledge_en/262.wav",
+    "Question": "Which musical instrument was Jelly Roll Morton associated with?",
+    "Answer": "Piano",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-263",
+    "Audio": "code_switching/knowledge_en/263.wav",
+    "Question": "Who was Don McLean singing about in Vincent?",
+    "Answer": "Vincent van Gogh",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-264",
+    "Audio": "code_switching/knowledge_en/264.wav",
+    "Question": "Which artist painted Flatford Mill?",
+    "Answer": "John Constable",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-265",
+    "Audio": "code_switching/knowledge_en/265.wav",
+    "Question": "The German film The Blue Angel launched the career of which famous actress?",
+    "Answer": "Marlene Dietrich",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-266",
+    "Audio": "code_switching/knowledge_en/266.wav",
+    "Question": "Who designed St. Paul's Cathedral in London?",
+    "Answer": "Christopher Wren",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-267",
+    "Audio": "code_switching/knowledge_en/267.wav",
+    "Question": "Who wrote the book on the origin of species?",
+    "Answer": "darwin",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-268",
+    "Audio": "code_switching/knowledge_en/268.wav",
+    "Question": "What is Hansen's disease better known as?",
+    "Answer": "Leprosy",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-269",
+    "Audio": "code_switching/knowledge_en/269.wav",
+    "Question": "Which part of the human body produces insulin?",
+    "Answer": "Pancreas",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-270",
+    "Audio": "code_switching/knowledge_en/270.wav",
+    "Question": "In which part of the human body is the limbic system located?",
+    "Answer": "Brain",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-271",
+    "Audio": "code_switching/knowledge_en/271.wav",
+    "Question": "Which is the largest city in Pakistan?",
+    "Answer": "Karachi",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-272",
+    "Audio": "code_switching/knowledge_en/272.wav",
+    "Question": "In humans, Duane Syndrome affects which part of the body?",
+    "Answer": "Eye",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-273",
+    "Audio": "code_switching/knowledge_en/273.wav",
+    "Question": "Coleopterology is the study of which insects?",
+    "Answer": "Beetle",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-274",
+    "Audio": "code_switching/knowledge_en/274.wav",
+    "Question": "The disease blossom end rot is most frequently found in which greenhouse crop?",
+    "Answer": "Tomato",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-275",
+    "Audio": "code_switching/knowledge_en/275.wav",
+    "Question": "What color are the berries of the mistletoe plant?",
+    "Answer": "White",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-276",
+    "Audio": "code_switching/knowledge_en/276.wav",
+    "Question": "Mary Mallon was effectively imprisoned for life in New York for being an irresponsible immune carrier of what disease?",
+    "Answer": "Typhoid fever",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-277",
+    "Audio": "code_switching/knowledge_en/277.wav",
+    "Question": "A Colles fracture is in which part of the body?",
+    "Answer": "Wrist",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-278",
+    "Audio": "code_switching/knowledge_en/278.wav",
+    "Question": "Where would you find the metatarsal bone?",
+    "Answer": "Foot",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-279",
+    "Audio": "code_switching/knowledge_en/279.wav",
+    "Question": "What is someone allergic to if they have celiac disease?",
+    "Answer": "Gluten",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-280",
+    "Audio": "code_switching/knowledge_en/280.wav",
+    "Question": "What type of whale was Moby Dick?",
+    "Answer": "Sperm whale",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-281",
+    "Audio": "code_switching/knowledge_en/281.wav",
+    "Question": "In which European capital city are the Hofburg Imperial Palace and St Stephen's Cathedral to be found?",
+    "Answer": "Vienna",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-282",
+    "Audio": "code_switching/knowledge_en/282.wav",
+    "Question": "What is the more common name for the order Coleoptera which contains more species than any other order in the animal kingdom?",
+    "Answer": "Beetle",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-283",
+    "Audio": "code_switching/knowledge_en/283.wav",
+    "Question": "Which is the only mammal in the order Proboscidea?",
+    "Answer": "Elephant",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-284",
+    "Audio": "code_switching/knowledge_en/284.wav",
+    "Question": "What is the waxy secretion of the sperm whale used in perfume manufacturing?",
+    "Answer": "Ambergris",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-285",
+    "Audio": "code_switching/knowledge_en/285.wav",
+    "Question": "Which disease is also called lockjaw?",
+    "Answer": "Tetanus",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-286",
+    "Audio": "code_switching/knowledge_en/286.wav",
+    "Question": "The winner of the Academy Award for Best Foreign Language Film nineteen eighty-seven, Babette's Feast, was set in and filmed by what country?",
+    "Answer": "Denmark",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-287",
+    "Audio": "code_switching/knowledge_en/287.wav",
+    "Question": "In which nineteen eighty film did Robert De Niro play the boxer Jake La Motta?",
+    "Answer": "Raging Bull",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-288",
+    "Audio": "code_switching/knowledge_en/288.wav",
+    "Question": "Who played Luke Skywalker in the original Star Wars trilogy?",
+    "Answer": "Mark Hamill",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-289",
+    "Audio": "code_switching/knowledge_en/289.wav",
+    "Question": "What character did Billy Dee Williams play in Star Wars?",
+    "Answer": "Lando Calrissian",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-290",
+    "Audio": "code_switching/knowledge_en/290.wav",
+    "Question": "What character did Billy Dee Williams play in Star Wars?",
+    "Answer": "Lando Calrissian",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-291",
+    "Audio": "code_switching/knowledge_en/291.wav",
+    "Question": "Who played Bruce Banner in the Marvel Cinematic Universe?",
+    "Answer": "Mark Ruffalo",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-292",
+    "Audio": "code_switching/knowledge_en/292.wav",
+    "Question": "Who played the role of Clark Kent on the TV show Smallville?",
+    "Answer": "Tom Welling",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-293",
+    "Audio": "code_switching/knowledge_en/293.wav",
+    "Question": "Who played the role of Clark Kent on the TV show Smallville?",
+    "Answer": "Tom Welling",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-294",
+    "Audio": "code_switching/knowledge_en/294.wav",
+    "Question": "Who played a detective in the movie The Departed?",
+    "Answer": "Leonardo DiCaprio",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-295",
+    "Audio": "code_switching/knowledge_en/295.wav",
+    "Question": "Who plays the voice of Brian on Family Guy?",
+    "Answer": "Seth MacFarlane",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-296",
+    "Audio": "code_switching/knowledge_en/296.wav",
+    "Question": "Who plays the voice of Brian on Family Guy?",
+    "Answer": "Seth MacFarlane",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-297",
+    "Audio": "code_switching/knowledge_en/297.wav",
+    "Question": "What college did Magic Johnson play for?",
+    "Answer": "Michigan State University",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-298",
+    "Audio": "code_switching/knowledge_en/298.wav",
+    "Question": "What country does David Luiz play for?",
+    "Answer": "Brazil",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-299",
+    "Audio": "code_switching/knowledge_en/299.wav",
+    "Question": "What disease did Bernie Mac die of?",
+    "Answer": "Pneumonia",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-300",
+    "Audio": "code_switching/knowledge_en/300.wav",
+    "Question": "Also the director of Insomnia and The Dark Knight, who directed the 2010 science fiction film Inception?",
+    "Answer": "Christopher Nolan",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-301",
+    "Audio": "code_switching/knowledge_en/301.wav",
+    "Question": "What country does Rafael Nadal play for?",
+    "Answer": "Spain",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-302",
+    "Audio": "code_switching/knowledge_en/302.wav",
+    "Question": "Where does Fabio Capello come from?",
+    "Answer": "Italy",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-303",
+    "Audio": "code_switching/knowledge_en/303.wav",
+    "Question": "Which film features Clint Eastwood, Tommy Lee Jones, James Garner, and Donald Sutherland as retired astronauts?",
+    "Answer": "Space Cowboys",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-304",
+    "Audio": "code_switching/knowledge_en/304.wav",
+    "Question": "Marilyn Monroe starred in the seven year itch. Who directed it?",
+    "Answer": "Billy Wilder",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-305",
+    "Audio": "code_switching/knowledge_en/305.wav",
+    "Question": "Marilyn Monroe starred in the seven year itch. Who directed it?",
+    "Answer": "Billy Wilder",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-306",
+    "Audio": "code_switching/knowledge_en/306.wav",
+    "Question": "Who directed the nineteen sixty-nine film 'Women in Love', starring Oliver Reed and Glenda Jackson?",
+    "Answer": "Ken Russell",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-307",
+    "Audio": "code_switching/knowledge_en/307.wav",
+    "Question": "Who directed the nineteen sixty-nine film 'Women in Love', starring Oliver Reed and Glenda Jackson?",
+    "Answer": "Ken Russell",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-308",
+    "Audio": "code_switching/knowledge_en/308.wav",
+    "Question": "Which creature features on the label of a Bacardi rum bottle?",
+    "Answer": "Bat",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-309",
+    "Audio": "code_switching/knowledge_en/309.wav",
+    "Question": "In which film does Andie MacDowell try to help Gerard Depardieu stay in the US?",
+    "Answer": "Green card",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-310",
+    "Audio": "code_switching/knowledge_en/310.wav",
+    "Question": "Who plays Captain Kirk in Star Trek?",
+    "Answer": "William Shatner",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-311",
+    "Audio": "code_switching/knowledge_en/311.wav",
+    "Question": "Eric Cartman is a character in which cartoon series?",
+    "Answer": "South Park",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-312",
+    "Audio": "code_switching/knowledge_en/312.wav",
+    "Question": "Who won the Oscar for Best Actress in the year two thousand for her role in Boys Don't Cry?",
+    "Answer": "Hilary Swank",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-313",
+    "Audio": "code_switching/knowledge_en/313.wav",
+    "Question": "Who plays the voice of kitt in Knight Rider?",
+    "Answer": "William Daniels",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-314",
+    "Audio": "code_switching/knowledge_en/314.wav",
+    "Question": "Who plays the voice of kitt in Knight Rider?",
+    "Answer": "William Daniels",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-315",
+    "Audio": "code_switching/knowledge_en/315.wav",
+    "Question": "What magazine was started by Hugh Hefner?",
+    "Answer": "Playboy",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-316",
+    "Audio": "code_switching/knowledge_en/316.wav",
+    "Question": "What movie starred Michael Jordan?",
+    "Answer": "Space Jam",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-317",
+    "Audio": "code_switching/knowledge_en/317.wav",
+    "Question": "What brand name are Chuck Taylor sneakers sold under?",
+    "Answer": "Converse",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-318",
+    "Audio": "code_switching/knowledge_en/318.wav",
+    "Question": "Who presented the nineteen eighty blockbuster documentary series Cosmos A Personal Voyage?",
+    "Answer": "Carl Sagan",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-319",
+    "Audio": "code_switching/knowledge_en/319.wav",
+    "Question": "What company makes Big Red and Juicy Fruit gum?",
+    "Answer": "Wrigley",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-320",
+    "Audio": "code_switching/knowledge_en/320.wav",
+    "Question": "Belonging to Indonesia, Irian Jaya is the western portion of which large island?",
+    "Answer": "New Guinea",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-321",
+    "Audio": "code_switching/knowledge_en/321.wav",
+    "Question": "For what role in the film musical Chicago did Catherine Zeta Jones win the Best Supporting Actress Oscar?",
+    "Answer": "Velma",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-322",
+    "Audio": "code_switching/knowledge_en/322.wav",
+    "Question": "Who first became famous as the gangster Duke Mantee in the film The Petrified Forest?",
+    "Answer": "Humphrey Bogart",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-323",
+    "Audio": "code_switching/knowledge_en/323.wav",
+    "Question": "Who first became famous as the gangster Duke Mantee in the film The Petrified Forest?",
+    "Answer": "Humphrey Bogart",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-324",
+    "Audio": "code_switching/knowledge_en/324.wav",
+    "Question": "Who directed the first two Beatles films A Hard Day's Night and Help?",
+    "Answer": "Richard Lester",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-325",
+    "Audio": "code_switching/knowledge_en/325.wav",
+    "Question": "What actor played the father on Little House on the Prairie?",
+    "Answer": "Michael Landon",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-326",
+    "Audio": "code_switching/knowledge_en/326.wav",
+    "Question": "Who played the part of Dr. Mark Sloan in the TV series Diagnosis Murder?",
+    "Answer": "Dick Van Dyke",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-327",
+    "Audio": "code_switching/knowledge_en/327.wav",
+    "Question": "Who played the part of Dr. Mark Sloan in the TV series Diagnosis Murder?",
+    "Answer": "Dick Van Dyke",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-328",
+    "Audio": "code_switching/knowledge_en/328.wav",
+    "Question": "Who voices Donkey in the Shrek series of films?",
+    "Answer": "Eddie Murphy",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-329",
+    "Audio": "code_switching/knowledge_en/329.wav",
+    "Question": "What sport do you associate with Francesco Molinari?",
+    "Answer": "Golf",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-330",
+    "Audio": "code_switching/knowledge_en/330.wav",
+    "Question": "What is the name of the Welsh television producer and writer who created Torchwood?",
+    "Answer": "Russell T Davies",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-331",
+    "Audio": "code_switching/knowledge_en/331.wav",
+    "Question": "The father of three Peter Griffin is the title character of which American animated TV series?",
+    "Answer": "Family Guy",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-332",
+    "Audio": "code_switching/knowledge_en/332.wav",
+    "Question": "In which capital city are the Tivoli Gardens located?",
+    "Answer": "Copenhagen",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-333",
+    "Audio": "code_switching/knowledge_en/333.wav",
+    "Question": "In which U S state was singer Bruno Mars born?",
+    "Answer": "Hawaii",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-334",
+    "Audio": "code_switching/knowledge_en/334.wav",
+    "Question": "Who was the first Spanish actor to win an Oscar for his role in the film No Country for Old Men?",
+    "Answer": "Javier Bardem",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-335",
+    "Audio": "code_switching/knowledge_en/335.wav",
+    "Question": "Kit Kat is manufactured throughout the world by Nestle except in the USA. Which company makes it under license there?",
+    "Answer": "Hershey",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-336",
+    "Audio": "code_switching/knowledge_en/336.wav",
+    "Question": "Who won the first season of American Idol?",
+    "Answer": "Kelly Clarkson",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-337",
+    "Audio": "code_switching/knowledge_en/337.wav",
+    "Question": "Who won an Oscar for his role in The Deer Hunter?",
+    "Answer": "Christopher Walken",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-338",
+    "Audio": "code_switching/knowledge_en/338.wav",
+    "Question": "Whose character ran a bookshop in the film Notting Hill?",
+    "Answer": "Hugh Grant",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-339",
+    "Audio": "code_switching/knowledge_en/339.wav",
+    "Question": "In Scarface, which character was played by Al Pacino?",
+    "Answer": "Tony Montana",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-340",
+    "Audio": "code_switching/knowledge_en/340.wav",
+    "Question": "In Scarface, which character was played by Al Pacino?",
+    "Answer": "Tony Montana",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-341",
+    "Audio": "code_switching/knowledge_en/341.wav",
+    "Question": "Aspirin and ibuprofen reduce pain by inhibiting the synthesis of what?",
+    "Answer": "prostaglandins",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-342",
+    "Audio": "code_switching/knowledge_en/342.wav",
+    "Question": "In which U S state is the Innoko River?",
+    "Answer": "Alaska",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-343",
+    "Audio": "code_switching/knowledge_en/343.wav",
+    "Question": "What is stevia a substitute for?",
+    "Answer": "Sugar",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-344",
+    "Audio": "code_switching/knowledge_en/344.wav",
+    "Question": "Malachite is an ore of which metal?",
+    "Answer": "Copper",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-345",
+    "Audio": "code_switching/knowledge_en/345.wav",
+    "Question": "What did Dmitri Mendeleev discover in eighteen sixty-nine?",
+    "Answer": "Periodic Table",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-346",
+    "Audio": "code_switching/knowledge_en/346.wav",
+    "Question": "Which metal is created by the Bessemer Process?",
+    "Answer": "Steel",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-347",
+    "Audio": "code_switching/knowledge_en/347.wav",
+    "Question": "Which economist wrote \"The Wealth of Nations\"?",
+    "Answer": "Adam Smith",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-348",
+    "Audio": "code_switching/knowledge_en/348.wav",
+    "Question": "Which institution is known as \"The Old Lady of Threadneedle Street\"?",
+    "Answer": "Bank of England",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-349",
+    "Audio": "code_switching/knowledge_en/349.wav",
+    "Question": "Name the pioneering game theory mathematician from the US who is featured in the film A Beautiful Mind?",
+    "Answer": "John Nash",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-350",
+    "Audio": "code_switching/knowledge_en/350.wav",
+    "Question": "Zloty and Grosz are money in which country?",
+    "Answer": "Poland",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-351",
+    "Audio": "code_switching/knowledge_en/351.wav",
+    "Question": "For which bank was Nick Leeson working at the time of his criminal dealings?",
+    "Answer": "Barings Bank",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-352",
+    "Audio": "code_switching/knowledge_en/352.wav",
+    "Question": "Which American President used the slogan \"It's the economy, stupid\" for his presidential campaign?",
+    "Answer": "Bill Clinton",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-353",
+    "Audio": "code_switching/knowledge_en/353.wav",
+    "Question": "Which English city is known as \"The Lace City\"?",
+    "Answer": "Nottingham",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-354",
+    "Audio": "code_switching/knowledge_en/354.wav",
+    "Question": "What is the capital of Morocco?",
+    "Answer": "Rabat",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-355",
+    "Audio": "code_switching/knowledge_en/355.wav",
+    "Question": "Which country does Greenland belong to?",
+    "Answer": "Denmark",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-356",
+    "Audio": "code_switching/knowledge_en/356.wav",
+    "Question": "What is the county town of County Mayo?",
+    "Answer": "Castlebar",
+    "Category": "Integrated"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-357",
+    "Audio": "code_switching/knowledge_en/357.wav",
+    "Question": "Juba is the capital of which country?",
+    "Answer": "South Sudan",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-358",
+    "Audio": "code_switching/knowledge_en/358.wav",
+    "Question": "In which New York borough is Central Park situated?",
+    "Answer": "Manhattan",
+    "Category": "Semantic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-359",
+    "Audio": "code_switching/knowledge_en/359.wav",
+    "Question": "What English county is RAF Lakenheath situated in?",
+    "Answer": "Suffolk",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-360",
+    "Audio": "code_switching/knowledge_en/360.wav",
+    "Question": "Herdwick sheep are native to which area of Britain?",
+    "Answer": "Lake District",
+    "Category": "Acoustic"
+  },
+  {
+    "Set": "Code-Switching Knowledge (en)",
+    "Qid": "codeswitching_knowledge-361",
+    "Audio": "code_switching/knowledge_en/361.wav",
+    "Question": "Which Japanese island has its capital at Sapporo and is the traditional home of the Ainu people?",
+    "Answer": "Hokkaido",
+    "Category": "Semantic"
+  }
+]
