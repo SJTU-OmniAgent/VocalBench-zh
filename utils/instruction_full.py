@@ -18,8 +18,11 @@ def find_emotion_id(text):
     for i, emotion in enumerate(id2emotion):
         if emotion in text_lower:
             return i
-    if '伤心' in text_lower:
-      return 3
+    id2emotion = ['生气', '高兴', '中立', '伤心', '惊讶', 'unknown']
+    text_lower = text.lower() 
+    for i, emotion in enumerate(id2emotion):
+        if emotion in text_lower:
+            return i
     return id2emotion.index('unknown') 
 
 
