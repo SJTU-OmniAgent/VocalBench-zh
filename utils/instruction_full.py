@@ -13,11 +13,13 @@ from config import EMOTION2VEC_PLUS_LARGE
 
 warnings.filterwarnings("ignore")
 def find_emotion_id(text):
-    id2emotion = ['生气', '高兴', '中性', '伤心', '惊喜', 'unknown']
+    id2emotion = ['生气', '高兴', '中性', '悲伤', '惊喜', 'unknown']
     text_lower = text.lower() 
     for i, emotion in enumerate(id2emotion):
         if emotion in text_lower:
             return i
+    if '伤心' in text_lower:
+      return 3
     return id2emotion.index('unknown') 
 
 
