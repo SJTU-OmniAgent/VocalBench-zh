@@ -29,11 +29,16 @@ Shanghai Jiao Tong University</a>  |  Ant Group</a>
 
 **[VocalBench-DF](https://arxiv.org/abs/2510.15406)** is a framework for the systematic evaluation of disfluency across a multi-dimensional taxonomy, consisting of  linguistic realization disfluency and interaction interference disfluency.
 
-## 📏 Evaluated models
 
-- Speech LLMs: [LLaMA-Omni2](https://arxiv.org/abs/2505.02625), [Freeze-Omni](https://arxiv.org/abs/2411.00774), [Step-Audio-2-Mini](https://arxiv.org/abs/2507.16632), [GLM-4-Voice](https://arxiv.org/abs/2412.02612), [VITA-Audio](https://arxiv.org/abs/2505.03739), [Kimi-Audio](https://arxiv.org/abs/2504.18425), [VocalNet](https://arxiv.org/abs/2504.04060), VocalNet2, [MiMo-Audio](https://github.com/XiaomiMiMo/MiMo-Audio/blob/main/MiMo-Audio-Technical-Report.pdf)
+## 📐 Evaluation Metrics
 
-- Omni LLMs: [Baichuan-Omni-1.5](https://arxiv.org/abs/2501.15368), [MiniCPM-o 2.6](https://openbmb.notion.site/MiniCPM-o-2-6-A-GPT-4o-Level-MLLM-for-Vision-Speech-and-Multimodal-Live-Streaming-on-Your-Phone-185ede1b7a558042b5d5e45e6b237da9), [Qwen2.5-Omni](https://arxiv.org/abs/2503.20215), [Qwen3-Omni](https://arxiv.org/abs/2509.17765)
+- Accuracy (ACC): For knowledge, reasoning, and multi-round evaluation, we use accuracy as an objective indicator.
+- Score: For literary creativity and single-round dialogue, we use LLM-as-a-Judge to score on a 1-5 range.
+- Preserve Rate (PR): For code Switching and robustness evaluation, we define the preserve rate as the proportion of correct instances / scores within multilingual / noisy inputs compared to monolingual / clean conditions.
+- Refusal Rate (RR) and Following Rate (FR): For safety alignment set, we report the refusal rate of each model. For instruction following set, we use following rate.
+- Emotional Empathy Rate (EER): For emotional empathy evaluation, we define emotional empathy rate as the proportion that model response shows empathy on both semantic meanings and acoustic tones.
+- UTMOS and phoneme error rate (PER) are used for acoustic quality.  
+
 
 ## 🏆 Leaderboard
 
@@ -426,15 +431,6 @@ Shanghai Jiao Tong University</a>  |  Ant Group</a>
 
 <br> 
 <br> 
-
-## 📐 Evaluation Metrics
-
-- Accuracy (ACC): For knowledge, reasoning, and multi-round evaluation, we use accuracy as an objective indicator.
-- Score: For literary creativity and single-round dialogue, we use LLM-as-a-Judge to score on a 1-5 range.
-- Preserve Rate (PR): For code Switching and robustness evaluation, we define the preserve rate as the proportion of correct instances / scores within multilingual / noisy inputs compared to monolingual / clean conditions.
-- Refusal Rate (RR) and Following Rate (FR): For safety alignment set, we report the refusal rate of each model. For instruction following set, we use following rate.
-- Emotional Empathy Rate (EER): For emotional empathy evaluation, we define emotional empathy rate as the proportion that model response shows empathy on both semantic meanings and acoustic tones.
-- UTMOS and phoneme error rate (PER) are used for acoustic quality.  
 
 ## 📌 Evaluation Methods
 
